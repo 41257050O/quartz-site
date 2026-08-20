@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: 卡片盒筆記
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+#歡迎!
+
+這裡是許沛儒的個人卡片盒筆記,記錄我在財經時事、投資觀察、閱讀等思考過程中,逐步整理下來的永久卡片。
+
+內容多半圍繞投資決策、市場觀察、與個人反思,是我平常學習與整理想法的地方,持續累積中。
