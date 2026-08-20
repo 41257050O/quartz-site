@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Card.Index.com
+  baseUrl: 41257050o.github.io/quartz-site
   ignorePatterns:
     - private
     - templates
